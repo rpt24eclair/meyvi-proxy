@@ -1,0 +1,3 @@
+[submodule "7MIMIRA-proxy"]
+	path = 7MIMIRA-proxy
+	url = https://github.com/rpt24eclair/7MIMIRA-proxy.git
